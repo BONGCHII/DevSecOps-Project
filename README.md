@@ -1,4 +1,12 @@
+WORKFLOW DIAGRAM -
+<img width="1920" height="1080" alt="DevSecOps" src="https://github.com/user-attachments/assets/5a5a145a-afa4-46be-a0b6-010a9856ee81" />
+
+<img width="1905" height="978" alt="home-page" src="https://github.com/user-attachments/assets/567c54cd-bd62-4aac-b6e4-a531be1d6d55" />
+
+
+
 YT link for Reference - https://www.youtube.com/watch?v=g8X5AoqCJHc
+
 
 ### **Phase 1: Initial Setup and Deployment**
 
